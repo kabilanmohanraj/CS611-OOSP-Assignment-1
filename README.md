@@ -24,8 +24,7 @@ The repository holds the Java source code for the Tic Tac Toe + Order and Chaos 
 
 ## How to compile and run
 ---------------------------------------------------------------------------
-1. Navigate to the directory `tic-tac-toe` after unzipping the files
-2. Run the following instructions:
+1. Run the following commands:
 >`javac -d bin src/**/*.java` \
 >`java -cp bin Default.Driver`
 
